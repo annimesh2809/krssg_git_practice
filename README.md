@@ -7,8 +7,8 @@ Make a branch named `Practice`.<br/>
 Add your name in README.MD as `* [Name](username)` at line 10.<br/>
 Send a PR to this Repository.
 
-* [Abhinav Agarwal](abhinavagarwal07)
 * [Shivang Agrawal](shivang)
 * [Nishant Nikhil](nishnik)
+* [Abhinav Agarwal](abhinavagarwal07).
 
 This will effectively push all other names downward.
