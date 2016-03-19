@@ -7,6 +7,7 @@ Make a branch named `Practice`.<br/>
 Add your name in README.MD as `* [Name](username)` at line 10.<br/>
 Send a PR to this Repository.
 
+* [Buridi Aditya](buridiaditya)
 * [Shivang Agrawal](shivang)
 * [Nishant Nikhil](nishnik)
 * [Abhinav Agarwal](abhinavagarwal07).
